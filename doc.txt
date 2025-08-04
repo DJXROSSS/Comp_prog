@@ -1,0 +1,1 @@
+this is a simple text documnet t check the git functionality
