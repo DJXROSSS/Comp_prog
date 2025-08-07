@@ -5,6 +5,10 @@ public class calculator {
         return a + b;
     }
 
+    public int multiply(int a, int b) {
+        return a * b;
+    }
+
     public static void main(String[] args) {
         calculator calc = new calculator();
         int result = calc.plus(5, 3);
