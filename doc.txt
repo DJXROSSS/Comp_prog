@@ -1,1 +1,3 @@
-this is a simple text documnet t check the git functionality
+this is a simple text document check the git functionality
+
+the file has been accessed by 2nd collaborator
